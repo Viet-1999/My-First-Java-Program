@@ -12,5 +12,9 @@ class AnimalAction {
         Cat cat1 = new Cat();
         cat1.animalSound();
         cat1.run();
+
+        Horse horse1 = new Horse();
+        horse1.animalSound();
+        horse1.run();
     }
 }
