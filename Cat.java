@@ -3,6 +3,6 @@ class Cat implements Animal {
         System.out.println("Meow, meow");
     }
     public void run() {
-        System.out.println("The cat is running");
+        System.out.println("Cat is sleeping");
     }
 }
